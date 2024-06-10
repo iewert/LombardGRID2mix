@@ -2,7 +2,6 @@
 
 ---
 **Note:**  
-**We will add the information and scripts soon.**  
-**Please check this repository again in a few days. Thank you for your understanding!**  
+**This repository is currently under construction. The final files will be added soon. Thank you for your understanding!**   
 
 ---
